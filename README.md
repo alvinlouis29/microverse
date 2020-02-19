@@ -1,7 +1,4 @@
 ![](https://img.shields.io/badge/Microverse%20Projects-template-blue) 
-![GitHub issues](https://img.shields.io/github/issues/OlukaDenis/Microverse-Projects)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/OlukaDenis/Microverse-Projects)
-![GitHub forks](https://img.shields.io/github/forks/OlukaDenis/Microverse-Projects?style=social)
 
 # Microverse Projects
 
@@ -9,7 +6,7 @@
 | -------------------- | -------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | **1: HTML & CSS**    | Basic HTML                             | 1: [YouTube](https://youtube.com) Clone  | [Github Repo](https://github.com/alvinlouis29/youtubeclone)           | [Live](https://raw.githack.com/alvinlouis29/youtubeclone/development/index.html) |
 |                      | Displaying and Inputting Data          | 2: [Mint Signup](https://mint.com) Clone | [Github Repo](https://github.com/alvinlouis29/mintsignup)               | [Live](https://raw.githack.com/alvinlouis29/mintsignup/development/index.html)                                         |
-|                      | CSS                                    | 3: [New York Times](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0) Clone      | [Github Repo]()                | [Live]()                                                                       |
+|                      | CSS                                    | 3: [New York Times](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0) Clone      | [Github Repo](https://github.com/adewaleK/Positioning-and-Floating-Element)                | [Live](https://raw.githack.com/adewaleK/Positioning-and-Floating-Element/development/index.html)                                                                       |
 |                      |                                        | 4: [Apple 2014](https://web.archive.org/web/20140301004610/http://www.apple.com/) Clone                       | [Github Repo]()              | [Live]()                                                                     |
 |                      | Design and UX                          | 5: [Smashing Magazine Teardown](https://www.smashingmagazine.com/)            | [Github Repo]()          | [Live]()                                                                 |
 |                      | Responsive Design and CSS Frameworks   | 6: [The Next Web](https://thenextweb.com) Clone                    | [Github Repo]()                | [Live]()                                                                       |
